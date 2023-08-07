@@ -1,18 +1,18 @@
-import React from "react";
 import { FaSearch } from "react-icons/fa";
 
-export const InputField = () => {
+const InputField = ({ filter, changeFilter }) => {
   return (
     <div className="inputWrapper">
       <FaSearch
-        style={{ marginLeft: "15px", position: "absolute" }}
+        style={{ marginLeft: "15px", position: "absolute", zIndex: "2" }}
         size={24}
       />
       <input
         placeholder="Search your trip"
+        id="cityInput"
         className="inputInner"
-        type="text"
-        onChange={(e) => console.log(e.target.value)}
+        value={filter}
+        onChange={changeFilter}
       />
     </div>
   );

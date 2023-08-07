@@ -1,0 +1,14 @@
+[
+    { "id":1,"name": "Kyiv", "image": "https://images.pexels.com/photos/11592689/pexels-photo-11592689.jpeg?auto=compress&cs=tinysrgb&h=350" },
+    { "id":2,"name": "Dnipro", "image": "https://images.pexels.com/photos/8886116/pexels-photo-8886116.jpeg?auto=compress&cs=tinysrgb&h=350" },
+    { "id":3,"name": "New York", "image": "https://images.pexels.com/photos/2190283/pexels-photo-2190283.jpeg?auto=compress&cs=tinysrgb&h=350" },
+    { "id":4,"name": "Los Angeles", "image": "https://images.pexels.com/photos/1688186/pexels-photo-1688186.jpeg?auto=compress&cs=tinysrgb&h=350" },
+    { "id":5,"name": "Madrid", "image": "https://images.pexels.com/photos/670261/pexels-photo-670261.jpeg?auto=compress&cs=tinysrgb&h=350" },
+    { "id":6,"name": "Sydney", "image": "https://images.pexels.com/photos/995765/pexels-photo-995765.jpeg?auto=compress&cs=tinysrgb&h=350" },
+    { "id":7,"name": "Odesa", "image": "https://images.pexels.com/photos/12665653/pexels-photo-12665653.jpeg?auto=compress&cs=tinysrgb&h=350" },
+    { "id":8,"name": "London", "image": "https://images.pexels.com/photos/220887/pexels-photo-220887.jpeg?auto=compress&cs=tinysrgb&h=350" },
+    { "id":9,"name": "Bucharest", "image": "https://images.pexels.com/photos/1386110/pexels-photo-1386110.jpeg?auto=compress&cs=tinysrgb&h=350" },
+    { "id":10,"name": "Vienna", "image": "https://images.pexels.com/photos/3823094/pexels-photo-3823094.jpeg?auto=compress&cs=tinysrgb&h=350" },
+    { "id":11,"name": "Paris", "image": "https://images.pexels.com/photos/1446624/pexels-photo-1446624.jpeg?auto=compress&cs=tinysrgb&h=350" },
+    { "id":12,"name": "Rome", "image": "https://images.pexels.com/photos/2064827/pexels-photo-2064827.jpeg?auto=compress&cs=tinysrgb&h=350" }
+]
